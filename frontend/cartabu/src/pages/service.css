@@ -1,0 +1,9 @@
+input[type=checkbox], input[type=radio] {
+    padding: 100%;
+    align-self: center;
+    text-align: center;
+    vertical-align: middle;
+    position: relative;
+    bottom: 1px;
+    left: 50pt;
+}
